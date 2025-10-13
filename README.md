@@ -1,125 +1,128 @@
-<!-- 🌸 Sabrina Sultana | README.md -->
+<!-- 🌸 Sabrina Sultana | Purple Edition README.md -->
+<!-- Theme: Elegant Purple | Modular | AI Research Portfolio -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=500&color=6F8FAF&center=true&vCenter=true&width=600&lines=✨+Assalamualaikum,+I'm+Sabrina+Sultana+✨;AI+%7C+Deep+Learning+%7C+Computer+Vision;Fast+Learner+%7C+Problem+Solver+%7C+Innovator" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabrina-sultana13&label=Profile%20views&color=6F8FAF&style=for-the-badge" alt="profile views" /> 
-  <img src="https://img.shields.io/github/followers/sabrina-sultana13?label=Followers&style=for-the-badge&color=6F8FAF" alt="followers" /> 
-  <img src="https://img.shields.io/github/stars/sabrina-sultana13?label=Stars&style=for-the-badge&color=6F8FAF" alt="stars" /> 
-</p>
+# 💜 **Assalamualaikum, I'm Sabrina Sultana**
+### Building Intelligent Systems with AI, Computer Vision & Deep Learning  
+#### `Fast Learner | Researcher | Problem Solver`
 
----
+<img src="https://komarev.com/ghpvc/?username=sabrina-sultana13&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/sabrina-sultana13?style=social" />
+<br>
 
-## 🌸 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=✨+AI+%7C+Deep+Learning+%7C+Medical+Imaging;🚀+Building+Privacy-Preserving+Intelligent+Systems;💡+U-Net+%7C+Transformers+%7C+Federated+Learning+%7C+XAI;🌸+Creating+Tech+that+Matters!" alt="Typing Animation" />
 
-🎓 **CS Student @ Brac University**  
-💡 Passionate about **AI, Deep Learning, and Medical Imaging**  
-🧠 Currently exploring **U-Net, Transformers, Self-Supervised & Few-Shot Learning**  
-🧩 Working on: **Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection**  
-🚀 Focused on **Multimodal Learning**, **Explainable AI**, and **Federated Learning**  
-💬 Ask me about: *AI, CV, LLMs, Mamba models, Transformers*  
-📫 Reach me at: **sabrina.sultana1@g.bracu.ac.bd**  
-🌐 LinkedIn: [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)  
+</div>
 
 ---
 
-## 🌈 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,linux,vscode,aws,django,flask,html,css,js,java,react,mysql" />
-</p>
-
----
-
-## 🧠 Current Focus
-
-| Area | Exploring |
-|------|------------|
-| 🔬 Medical AI | U-Net, Vision Transformers |
-| 🔐 Privacy | Federated & Privacy-Preserving Learning |
-| 🧩 Multimodal AI | Combining Images, Text, & Clinical Data |
-| 🪄 Explainability | Grad-CAM, Prototype & Causal Explainability |
-| ⚙️ Engineering | OpenGL, Python Automation, Optimization |
+## 🪄 About Me
+💜 CS Student @ **Brac University (Dhaka, Bangladesh)**  
+🔬 Thesis: *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support*  
+🧠 Exploring **U-Net + Transformers**, **Multimodal AI**, **Self-Supervised Learning**, and **Federated Learning**  
+🔐 Focused on **Privacy, Explainability, and Real-World Medical AI**  
+💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging*  
+📫 **Email:** sabrina.sultana1@g.bracu.ac.bd  
+🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)  
+💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13)
 
 ---
 
-## 🌍 Connect With Me
+## 🔮 SWAPPABLE BOX #1 — Tech Stack & Tools
 
-<p align="center">
-  <a href="https://linkedin.com/in/sabrina-sultana-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/sabrina13" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://github.com/Sabrina-Sultana13" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
 
----
+| AI & ML | Frameworks | Tools & Platforms | Languages |
+|----------|-------------|------------------|------------|
+| 🧠 PyTorch, TensorFlow | 🧩 U-Net, ViT, CNNs | 🧰 Git, Linux, VSCode | 🐍 Python, Java, JS |
+| 🔬 OpenCV, Scikit-learn | 🪄 Transformers, Diffusion Models | ☁️ AWS, Flask, Django | 💜 C, HTML, CSS |
 
-## 📊 GitHub Analytics
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,linux,django,flask,aws,html,css,js,java" />
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabrina-sultana13&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina-sultana13&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-sultana13&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🚀 Projects & Research Highlights
+## 💡 SWAPPABLE BOX #2 — Projects & Research
 
-🩺 **Privacy-Preserving Hybrid Framework for Skin Disease Detection**  
-> U-Net + Transformer architecture integrating LLM-based decision support for clinical diagnosis.
+<div align="center">
 
-🧬 **Diffusion Models for Medical Image Reconstruction**  
-> Enhancing noisy MRI/CT images before segmentation.
+🩺 **Privacy-Preserving Skin Disease Detection (U-Net + Transformer)**  
+> Combines segmentation, multimodal learning & federated privacy for real-world healthcare.  
 
-💡 **Multimodal Diagnosis with Explainable AI**  
-> Combining dermoscopic + textual data for explainable skin lesion classification.
+🧬 **Diffusion-Based MRI Enhancement**  
+> Denoising & reconstructing low-quality MRI scans before segmentation.  
+
+💬 **LLM-Integrated Clinical Decision Support**  
+> Merging visual & textual reasoning for dermatologist-assistive AI.  
 
 🎮 **Catch the Diamonds! (OpenGL Game)**  
-> A fun interactive game built in Python & OpenGL.
+> Python-based interactive game using 2D object dynamics & user control.  
 
-🔒 **Federated Learning for Medical Imaging**  
-> Privacy-preserving training across distributed hospitals.
+</div>
 
 ---
 
-## 🧘 Fun Zone
+## 🌌 SWAPPABLE BOX #3 — GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=6F8FAF&center=true&vCenter=true&width=600&lines=🧩+Problem+Solver;🚀+Deep+Learning+Enthusiast;🧠+Building+AI+That+Matters;🌸+Lifelong+Learner" alt="Typing Animation" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabrina-sultana13&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina-sultana13&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-sultana13&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
 
-## ⏰ Coding Activity (Dynamic Graphs)
+## 🔭 SWAPPABLE BOX #4 — Research Focus Areas
+
+| 🧠 Area | 🔍 Current Work |
+|----------|----------------|
+| 🩺 **Medical Image Segmentation** | U-Net, ViT, DDPM |
+| 🔐 **Privacy-Preserving AI** | Federated Learning, Differential Privacy |
+| 🪄 **Multimodal AI** | Vision + Text for Clinical Diagnosis |
+| 🧩 **Explainability (XAI)** | Grad-CAM, Prototype Learning |
+| 🧬 **Self-Supervised Learning** | Masked Image Modeling |
+
+---
+
+## 🌈 SWAPPABLE BOX #5 — Activity & Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrina-sultana13&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrina-sultana13&theme=purple&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sabrina-sultana13&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🏆 Achievements & Badges
+## 🦋 SWAPPABLE BOX #6 — Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabrina-sultana13&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <a href="https://linkedin.com/in/sabrina-sultana-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/sabrina13" target="_blank"><img src="https://img.shields.io/badge/Kaggle-9370DB?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:sabrina.sultana1@g.bracu.ac.bd" target="_blank"><img src="https://img.shields.io/badge/Email-9B59B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💫 Quote
+## 🌠 Quote
 
-<p align="center">
-  <i>“Building intelligent systems that serve humanity through innovation and responsibility.”</i>
-</p>
+<div align="center">
+
+> *“Building intelligent systems that serve humanity through innovation and responsibility.”*  
+> — **Sabrina Sultana**
+
+</div>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting! ✨</h3>
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-wave.gif" width="100" height="100" />
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/xV0hJQ9eO-0AAAAC/purple-nebula.gif" width="100%" height="120">
+  <h3>💜 Thanks for visiting my space! 💫</h3>
+</div>
