@@ -49,12 +49,16 @@
     <summary> **Click to expand my comprehensive technical toolkit!** ⚙️ </summary>
     <br>
     
-    | AI & ML | Frameworks | Tools & Platforms | Languages |
-    |----------|-------------|------------------|------------|
-    | 🧠 PyTorch, TensorFlow | 🧩 U-Net, ViT, CNNs | 🧰 Git, Linux, VSCode | 🐍 Python, Java, JS |
-    | 🔬 OpenCV, Scikit-learn | 🪄 Transformers, Diffusion Models | ☁️ AWS, Flask, Django | 💜 C, HTML, CSS |
+     
+    | Category | Key Technologies |
+    | :--- | :--- |
+    | **AI & ML** | PyTorch, TensorFlow, OpenCV, Scikit-learn |
+    | **Frameworks** | U-Net, ViT, CNNs, Transformers, Diffusion Models |
+    | **Tools & Platforms** | Git, Linux, VSCode, AWS, Flask, Django |
+    | **Languages** | Python, Java, JavaScript, C, HTML, CSS |
 
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,linux,django,flask,aws,html,css,js,java&perline=7" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,linux,django,flask,aws,html,css,js,java&perline=7" alt="Tech Stack Icons" />
   </details>
 </div>
 
