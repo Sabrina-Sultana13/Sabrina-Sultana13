@@ -16,27 +16,16 @@
 
 ## 🪄 About Me
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      💜 CS Student @ **Brac University (Dhaka, Bangladesh)** <br>
-      🔬 Thesis: *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support*
-      <br>
-      🧠 Exploring **U-Net + Transformers**, **Multimodal AI**, and **Federated Learning**
-      <br>
-      🔐 Focused on **Privacy, Explainability, and Real-World Medical AI**
-    </td>
-    <td width="50%">
-      💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging*
-      <br>
-      📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd)
-      <br>
-      🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)
-      <br>
-      💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13)
-    </td>
-  </tr>
-</table>
+<div align="left">
+
+| Key Focus Areas | Contact & Social |
+| :--- | :--- |
+| 💜 CS Student @ **Brac University (Dhaka, Bangladesh)** | 💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging* |
+| 🔬 **Thesis:** *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support* | 📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd) |
+| 🧠 **Research:** Exploring **U-Net + Transformers**, **Multimodal AI**, and **Federated Learning** | 🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-) |
+| 🔐 **Goal:** Focused on **Privacy, Explainability, and Real-World Medical AI** | 💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13) |
+
+</div>
 
 ---
 ## 📚 My Dev Journey & Education
@@ -48,10 +37,18 @@
   - Completing Bachelor of Science Degree in Computer Science and Engineering
   - *Expected Graduation: 2026*
 
+### 💼 Experience
+- **LeftKlick**
+  - Former Co-founder & Graphics Designer
+  - *August 2021 – May 2022*
+- **Arekta Coin Store**
+  - Former Co-founder & Graphics Designer
+  - *June 2020 – November 2021*
+  
 </div>
 
 ---
-## Tools
+## 🔮 Tech Stack & Tools
 
 <div align="center">
   <details>
