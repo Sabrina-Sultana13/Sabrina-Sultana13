@@ -1,5 +1,3 @@
-<div style="background-color: #E6E6FA; padding: 20px; border-radius: 15px;">
-
 <div align="center">
 
 # 💜 **Assalamualaikum, I'm Sabrina Sultana**
@@ -17,27 +15,44 @@
 ---
 
 ## 🪄 About Me
-💜 CS Student @ **Brac University (Dhaka, Bangladesh)**  
-🔬 Thesis: *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support*  
-🧠 Exploring **U-Net + Transformers**, **Multimodal AI**, **Self-Supervised Learning**, and **Federated Learning**  
-🔐 Focused on **Privacy, Explainability, and Real-World Medical AI**  
-💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging*  
-📫 **Email:** sabrina.sultana1@g.bracu.ac.bd  
-🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)  
-💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13)
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      💜 CS Student @ **Brac University (Dhaka, Bangladesh)** <br>
+      🔬 Thesis: *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support*
+      <br>
+      🧠 Exploring **U-Net + Transformers**, **Multimodal AI**, and **Federated Learning**
+      <br>
+      🔐 Focused on **Privacy, Explainability, and Real-World Medical AI**
+    </td>
+    <td width="50%">
+      💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging*
+      <br>
+      📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd)
+      <br>
+      🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)
+      <br>
+      💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13)
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🔮 Tech Stack & Tools
 
 <div align="center">
+  <details>
+    <summary> **Click to expand my comprehensive technical toolkit!** ⚙️ </summary>
+    <br>
+    
+    | AI & ML | Frameworks | Tools & Platforms | Languages |
+    |----------|-------------|------------------|------------|
+    | 🧠 PyTorch, TensorFlow | 🧩 U-Net, ViT, CNNs | 🧰 Git, Linux, VSCode | 🐍 Python, Java, JS |
+    | 🔬 OpenCV, Scikit-learn | 🪄 Transformers, Diffusion Models | ☁️ AWS, Flask, Django | 💜 C, HTML, CSS |
 
-| AI & ML | Frameworks | Tools & Platforms | Languages |
-|----------|-------------|------------------|------------|
-| 🧠 PyTorch, TensorFlow | 🧩 U-Net, ViT, CNNs | 🧰 Git, Linux, VSCode | 🐍 Python, Java, JS |
-| 🔬 OpenCV, Scikit-learn | 🪄 Transformers, Diffusion Models | ☁️ AWS, Flask, Django | 💜 C, HTML, CSS |
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,linux,django,flask,aws,html,css,js,java" />
-
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,linux,django,flask,aws,html,css,js,java&perline=7" />
+  </details>
 </div>
 
 ---
@@ -45,26 +60,14 @@
 
 <div align="center">
 
-🎮 **Online Dino Game Clone**  
-> A web-based clone of the popular T-Rex runner game. ([Play Here!](https://dinooooo.vercel.app/))
-
-🎶 **Music Cloud Platform Clone**  
-> A full-stack web application designed to replicate the functionality and feel of a major music streaming service. ([View App](https://clone-spotify-2-2.vercel.app/))
-
-🧠 **Real-Time Emotion Detector**  
-> An AI-powered application for detecting human emotions from images or live video feeds. ([Try Demo](https://emotion-detector-six.vercel.app/))
-
-🩺 **Privacy-Preserving Skin Disease Detection (U-Net + Transformer)**  
-> Combines segmentation, multimodal learning & federated privacy for real-world healthcare.  
-
-🧬 **Diffusion-Based MRI Enhancement**  
-> Denoising & reconstructing low-quality MRI scans before segmentation.  
-
-💬 **LLM-Integrated Clinical Decision Support**  
-> Merging visual & textual reasoning for dermatologist-assistive AI.  
-
-🎮 **Catch the Diamonds! (OpenGL Game)**  
-> Python-based interactive game using 2D object dynamics & user control.  
+| Project Type | Title & Description | Live Link |
+| :--- | :--- | :---: |
+| **Medical AI** | 🩺 **Privacy-Preserving Skin Disease Detection (U-Net + Transformer)**: Combines segmentation, multimodal learning & federated privacy for real-world healthcare. | *In Development* |
+| **Web Dev/AI** | 🧠 **Real-Time Emotion Detector**: An AI-powered application for detecting human emotions from images or live video feeds. | [Try Demo](https://emotion-detector-six.vercel.app/) |
+| **Music Web App** | 🎶 **Music Cloud Platform Clone**: A full-stack web application designed to replicate a major music streaming service. | [View App](https://clone-spotify-2-2.vercel.app/) |
+| **Image AI** | 🧬 **Diffusion-Based MRI Enhancement**: Denoising & reconstructing low-quality MRI scans before segmentation. | *Research Prototype* |
+| **Web Game** | 🎮 **Online Dino Game Clone**: A simple web-based clone of the popular T-Rex runner game. | [Play Here!](https://dinooooo.vercel.app/) |
+| **Gaming/Graphics** | 🕹️ **Catch the Diamonds! (OpenGL Game)**: Python-based interactive game using 2D object dynamics & user control. | *Source Code Only* |
 
 </div>
 
@@ -72,24 +75,24 @@
 ## 🌌 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabrina-sultana13&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina-sultana13&theme=midnight-purple&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabrina-sultana13&show_icons=true&theme=midnight-purple&hide_border=true&border_color=9B59B6" alt="Sabrina's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina-sultana13&theme=midnight-purple&hide_border=true&border_color=9B59B6" alt="Sabrina's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-sultana13&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-sultana13&layout=compact&theme=midnight-purple&hide_border=true&border_color=9B59B6" alt="Sabrina's Top Languages" />
 </p>
 
 ---
 ## 🔭 Research Focus Areas
 
 | 🧠 Area | 🔍 Current Work |
-|----------|----------------|
-| 🩺 **Medical Image Segmentation** | U-Net, ViT, DDPM |
+|:----------|:----------------|
+| 🩺 **Medical Image Segmentation** | U-Net, ViT, DDPM (Diffusion Models) |
 | 🔐 **Privacy-Preserving AI** | Federated Learning, Differential Privacy |
-| 🪄 **Multimodal AI** | Vision + Text for Clinical Diagnosis |
-| 🧩 **Explainability (XAI)** | Grad-CAM, Prototype Learning |
-| 🧬 **Self-Supervised Learning** | Masked Image Modeling |
+| 🪄 **Multimodal AI** | Vision + Text for Clinical Diagnosis (LLM Integration) |
+| 🧩 **Explainability (XAI)** | Grad-CAM, Prototype Learning for AI Trust |
+| 🧬 **Self-Supervised Learning** | Masked Image Modeling, contrastive methods |
 
 ---
 ## 🦋 Connect With Me
@@ -113,8 +116,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/xV0hJQ9eO-0AAAAC/purple-nebula.gif" width="100%" height="120">
   <h3>💜 Thanks for visiting my space! 💫</h3>
-</div>
-
 </div>
