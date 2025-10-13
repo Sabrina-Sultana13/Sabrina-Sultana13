@@ -132,9 +132,7 @@
 </table>
 
 <br>
-<small>
-*Note: Architectures like U-Net, ViT, CNNs, Transformers, and Diffusion Models are implemented primarily using PyTorch/TensorFlow frameworks.*
-</small>
+
 </details>
 </div>
 
@@ -201,10 +199,9 @@
 
 <br>
 <div align="center">
-  <h3>💜 Thanks for visiting my space! 💫</h3>
+  <h3> Thanks for visiting my space! 💫</h3>
 </div>
 
 
 
 
-keeep as it is just use movable emojis.  
