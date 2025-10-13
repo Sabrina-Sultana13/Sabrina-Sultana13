@@ -4,13 +4,11 @@
 ### Building Intelligent Systems with AI, Computer Vision & Deep Learning  
 #### `Fast Learner | Researcher | Problem Solver`
 
+<img src="https://komarev.com/ghpvc/?username=sabrina-sultana13&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/sabrina-sultana13?style=social" />
 <br>
 
-<img src="https://custom-icon-badges.demolab.com/badge/AI%20|%20DeepLearning%20|%20MedicalAI-9B59B6?style=for-the-badge&logo=brain&logoColor=white&labelColor=5D3FD3&color=9B59B6" alt="AI | Deep Learning | Medical AI Badge" />
-<img src="https://custom-icon-badges.demolab.com/badge/Privacy%20|%20XAI%20|%20FederatedLearning-9B59B6?style=for-the-badge&logo=shield&logoColor=white&labelColor=5D3FD3&color=9B59B6" alt="Privacy | XAI | Federated Learning Badge" />
-<br>
-<img src="https://custom-icon-badges.demolab.com/badge/PyTorch%20|%20U--Net%20|%20Transformers-9B59B6?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=5D3FD3&color=9B59B6" alt="PyTorch | U-Net | Transformers Badge" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=✨+AI+%7C+Deep+Learning+%7C+Medical+Imaging;🚀+Building+Privacy-Preserving+Intelligent+Systems;💡+U-Net+%7C+Transformers+%7C+Federated+Learning+%7C+XAI;🌸+Creating+Tech+that+Matters!" alt="Typing Animation" />
 
 </div>
 
@@ -20,17 +18,36 @@
 
 <div align="left">
 
-| Key Focus Areas | Contact & Social |
-| :--- | :--- |
-| 💜 CS Student @ **Brac University (Dhaka, Bangladesh)** | 💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging* |
-| 🔬 **Thesis:** *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support* | 📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd) |
-| 🧠 **Research:** Exploring **U-Net + Transformers**, **Multimodal AI**, and **Federated Learning** | 🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-) |
-| 🔐 **Goal:** Focused on **Privacy, Explainability (XAI), and Real-World Medical AI** | 💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13) |
+- 🎓 **Student** @ **Brac University (Dhaka, Bangladesh)**, pursuing Computer Science.
+- 🔬 **Thesis Focus:** Developing a Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support.
+- 🧠 **Current Research:** Deeply exploring **U-Net + Transformers**, **Multimodal AI**, **MAMBA** and **Federated Learning**.
+- 🔐 **Goal:** Building intelligent systems focused on **Privacy, Explainability (XAI), and practical Real-World Medical AI**.
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging*
+    </td>
+    <td width="50%">
+      📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)
+    </td>
+    <td>
+      💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13)
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-## 📚 My Dev Journey & Education
+## 📚 Education
 
 <div align="left">
 
@@ -39,18 +56,11 @@
   - Completing Bachelor of Science Degree in Computer Science and Engineering
   - *Expected Graduation: 2026*
 
-### 💼 Experience
-- **LeftKlick**
-  - Former Co-founder & Graphics Designer
-  - *August 2021 – May 2022*
-- **Arekta Coin Store**
-  - Former Co-founder & Graphics Designer
-  - *June 2020 – November 2021*
-  
+
 </div>
 
 ---
-## 🔮 Tech Stack & Tools
+## Tools
 
 <div align="center">
   <details>
