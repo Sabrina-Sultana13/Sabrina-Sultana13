@@ -1,16 +1,10 @@
-<h1 align="center">✨ Assalamualaikum, I'm Sabrina ✨</h1>
+<h1 align="center">✨ Assalamualaikum, I'm Sabrina Sultana✨</h1>
 <h3 align="center">Building Intelligent Systems | AI, Computer Vision & Deep Learning Enthusiast | Fast Learner & Problem Solver</h3>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sabrina-sultana13&label=Profile%20views&color=0e75b6&style=flat" alt="sabrina-sultana13" /> 
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabrina-sultana13&theme=dracula&no-frame=true&margin-w=15" alt="trophies" />
-  </a>
 </p>
 
 ---
