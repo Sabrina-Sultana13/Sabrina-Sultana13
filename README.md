@@ -48,14 +48,6 @@
   - Completing Bachelor of Science Degree in Computer Science and Engineering
   - *Expected Graduation: 2026*
 
-### 💼 Experience
-- **LeftKlick**
-  - Former Co-founder & Graphics Designer
-  - *August 2021 – May 2022*
-- **Arekta Coin Store**
-  - Former Co-founder & Graphics Designer
-  - *June 2020 – November 2021*
-  
 </div>
 
 ---
