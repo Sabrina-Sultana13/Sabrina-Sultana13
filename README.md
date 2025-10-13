@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💜 **Assalamualaikum, I'm Sabrina Sultana**
+#  **Assalamualaikum, I'm Sabrina Sultana**
 ### Building Intelligent Systems with AI, Computer Vision & Deep Learning  
 #### `Fast Learner | Researcher | Problem Solver`
 
@@ -20,7 +20,7 @@
 
 | Key Focus Areas | Contact & Social |
 | :--- | :--- |
-| 💜 CS Student @ **Brac University (Dhaka, Bangladesh)** | 💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging* |
+| CS Student @ **Brac University (Dhaka, Bangladesh)** | 💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging* |
 | 🔬 **Thesis:** *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support* | 📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd) |
 | 🧠 **Research:** Exploring **U-Net + Transformers**, **Multimodal AI**, and **Federated Learning** | 🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-) |
 | 🔐 **Goal:** Focused on **Privacy, Explainability, and Real-World Medical AI** | 💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13) |
@@ -34,7 +34,7 @@
 
 ### 🎓 Education
 - **Brac University** (Dhaka, Bangladesh)
-  - Completing Bachelor of Science Degree in Computer Science 
+  - Completing a Bachelor of Science Degree in Computer Science 
   - *Expected Graduation: 2026*
 
 
@@ -46,22 +46,66 @@
 
 <div align="center">
   <details>
-    <summary> **Click to expand my comprehensive technical toolkit!** ⚙️ </summary>
+    <summary> 🔽 Click to expand my comprehensive technical toolkit! ⚙️ </summary>
     <br>
-    
-     
-    | Category | Key Technologies |
-    | :--- | :--- |
-    | **AI & ML** | PyTorch, TensorFlow, OpenCV, Scikit-learn |
-    | **Frameworks** | U-Net, ViT, CNNs, Transformers, Diffusion Models |
-    | **Tools & Platforms** | Git, Linux, VSCode, AWS, Flask, Django |
-    | **Languages** | Python, Java, JavaScript, C, HTML, CSS |
-
+    <table align="center">
+      <tr>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" /><br>PyTorch
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="TensorFlow" /><br>TensorFlow
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=opencv" width="40" alt="OpenCV" /><br>OpenCV
+        </td>
+        <td align="center" width="90">
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" width="40" alt="Scikit-learn" /><br>Scikit-learn
+        </td>
+      </tr>
+      <tr>
+        <td colspan="4"><hr></td>
+      </tr>
+      <tr>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /><br>Git
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" /><br>Linux
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VSCode" /><br>VSCode
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" /><br>AWS
+        </td>
+      </tr>
+      <tr>
+        <td colspan="4"><hr></td>
+      </tr>
+      <tr>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" /><br>Python
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /><br>Java
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /><br>JavaScript
+        </td>
+        <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=html,css" width="40" alt="HTML/CSS" /><br>HTML/CSS
+        </td>
+      </tr>
+    </table>
     <br>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,linux,django,flask,aws,html,css,js,java&perline=7" alt="Tech Stack Icons" />
+    <small>
+    *Note: Frameworks like U-Net, ViT, CNNs, Transformers, Diffusion Models are conceptual architectures; their implementation often uses libraries like PyTorch/TensorFlow.*
+    </small>
   </details>
 </div>
 
+---
 ---
 ## 💡 Featured Projects & Research
 
