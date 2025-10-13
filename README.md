@@ -34,21 +34,15 @@
 
 ### 🎓 Education
 - **Brac University** (Dhaka, Bangladesh)
-  - Completing Bachelor of Science Degree in Computer Science and Engineering
+  - Completing Bachelor of Science Degree in Computer Science 
   - *Expected Graduation: 2026*
 
-### 💼 Experience
-- **LeftKlick**
-  - Former Co-founder & Graphics Designer
-  - *August 2021 – May 2022*
-- **Arekta Coin Store**
-  - Former Co-founder & Graphics Designer
-  - *June 2020 – November 2021*
+
   
 </div>
 
 ---
-## 🔮 Tech Stack & Tools
+## Tools
 
 <div align="center">
   <details>
