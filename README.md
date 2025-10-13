@@ -1,6 +1,6 @@
 <div align="center">
 
-#  **Assalamualaikum, I'm Sabrina Sultana**
+# 💜 **Assalamualaikum, I'm Sabrina Sultana**
 ### Building Intelligent Systems with AI, Computer Vision & Deep Learning  
 #### `Fast Learner | Researcher | Problem Solver`
 
@@ -18,25 +18,43 @@
 
 <div align="left">
 
-| Key Focus Areas | Contact & Social |
-| :--- | :--- |
-| CS Student @ **Brac University (Dhaka, Bangladesh)** | 💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging* |
-| 🔬 **Thesis:** *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support* | 📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd) |
-| 🧠 **Research:** Exploring **U-Net + Transformers**, **Multimodal AI**, and **Federated Learning** | 🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-) |
-| 🔐 **Goal:** Focused on **Privacy, Explainability, and Real-World Medical AI** | 💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13) |
+- 🎓 **Student** @ **Brac University (Dhaka, Bangladesh)**, pursuing Computer Science.
+- 🔬 **Thesis Focus:** Developing a Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support.
+- 🧠 **Current Research:** Deeply exploring **U-Net + Transformers**, **Multimodal AI**, and **Federated Learning**.
+- 🔐 **Goal:** Building intelligent systems focused on **Privacy, Explainability (XAI), and practical Real-World Medical AI**.
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      💬 Ask me about: *AI, Computer Vision, Mamba, OpenGL, and Medical Imaging*
+    </td>
+    <td width="50%">
+      📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)
+    </td>
+    <td>
+      💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13)
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-## Education
+## 📚 Education
 
 <div align="left">
 
 ### 🎓 Education
 - **Brac University** (Dhaka, Bangladesh)
-  - Completing a Bachelor of Science Degree in Computer Science 
+  - Completing Bachelor of Science Degree in Computer Science and Engineering
   - *Expected Graduation: 2026*
-
 
   
 </div>
@@ -106,7 +124,6 @@
 </div>
 
 ---
----
 ## 💡 Featured Projects & Research
 
 <div align="center">
@@ -116,9 +133,9 @@
 | **Medical AI** | 🩺 **Privacy-Preserving Skin Disease Detection (U-Net + Transformer)**: Combines segmentation, multimodal learning & federated privacy for real-world healthcare. | *In Development* |
 | **Web Dev/AI** | 🧠 **Real-Time Emotion Detector**: An AI-powered application for detecting human emotions from images or live video feeds. | [Try Demo](https://emotion-detector-six.vercel.app/) |
 | **Music Web App** | 🎶 **Music Cloud Platform Clone**: A full-stack web application designed to replicate a major music streaming service. | [View App](https://clone-spotify-2-2.vercel.app/) |
-| **Image AI** | 🧬 **Diffusion-Based MRI Enhancement**: Denoising & reconstructing low-quality MRI scans before segmentation. | *Research Prototype* |
-| **Web Game** | 🎮 **Online Dino Game Clone**: A simple web-based clone of the popular T-Rex runner game. | [Play Here!](https://dinooooo.vercel.app/) |
-| **Gaming/Graphics** | 🕹️ **Catch the Diamonds! (OpenGL Game)**: Python-based interactive game using 2D object dynamics & user control. | *Source Code Only* |
+| **Image AI** | 🧬 **Diffusion-Based MRI Enhancement** | *Research Prototype* |
+| **Web Game** | 🎮 **Online Dino Game Clone** | [Play Here!](https://dinooooo.vercel.app/) |
+| **Gaming/Graphics** | 🕹️ **Catch the Diamonds! (OpenGL Game)** | *Source Code Only* |
 
 </div>
 
