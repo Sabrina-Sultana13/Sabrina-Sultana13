@@ -28,7 +28,7 @@
 </div>
 
 ---
-## 📚 My Dev Journey & Education
+## Education
 
 <div align="left">
 
