@@ -45,6 +45,15 @@
 
 <div align="center">
 
+🎮 **Online Dino Game Clone**  
+> A web-based clone of the popular T-Rex runner game. ([Play Here!](https://dinooooo.vercel.app/))
+
+🎶 **Music Cloud Platform Clone**  
+> A full-stack web application designed to replicate the functionality and feel of a major music streaming service. ([View App](https://clone-spotify-2-2.vercel.app/))
+
+🧠 **Real-Time Emotion Detector**  
+> An AI-powered application for detecting human emotions from images or live video feeds. ([Try Demo](https://emotion-detector-six.vercel.app/))
+
 🩺 **Privacy-Preserving Skin Disease Detection (U-Net + Transformer)**  
 > Combines segmentation, multimodal learning & federated privacy for real-world healthcare.  
 
