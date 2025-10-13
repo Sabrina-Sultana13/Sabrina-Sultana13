@@ -51,7 +51,7 @@
 </div>
 
 ---
-## 🔮 Tech Stack & Tools
+## Tools
 
 <div align="center">
   <details>
