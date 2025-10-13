@@ -18,7 +18,7 @@
 
 <div align="left">
 
-- 🎓 **Student** @ **Brac University (Dhaka, Bangladesh)**, pursuing Computer Science.
+- 🎓 **Student** @ **Brac University (Dhaka, Bangladesh)**, pursuing a Bachelor’s degree in Computer Science.
 - 🔬 **Thesis Focus:** Developing a Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support.
 - 🧠 **Current Research:** Deeply exploring **U-Net + Transformers**, **Multimodal AI**, **MAMBA** and **Federated Learning**.
 - 🔐 **Goal:** Building intelligent systems focused on **Privacy, Explainability (XAI), and practical Real-World Medical AI**.
