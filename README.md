@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Assalamualaikum, I'm Sabrina Sultana** <img src="https://media.giphy.com/media/3o6ZsXr6vfnE0f5VxK/giphy.gif" width="30"/>
+# **Assalamualaikum, I'm Sabrina Sultana** <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30"/>
 
 ### Building Intelligent Systems with AI, Computer Vision & Deep Learning  
 
@@ -158,13 +158,13 @@
 
 ## 🔭 Research Focus Areas
 
-| <img src="https://media.giphy.com/media/l0MYGzZfYicY6c1nC/giphy.gif" width="22"/> Area | 🔍 Current Work |
+| <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="22"/> Area | 🔍 Current Work |
 | :---------- | :---------------- |
-| 🩺 **Medical Image Segmentation** | U-Net, Vision Transformer (ViT), DDPM |
-| 🔐 **Privacy-Preserving AI** | Federated Learning, Differential Privacy |
-| 🪄 **Multimodal AI** | Vision + Text for Clinical Diagnosis (LLM Integration) |
-| 🧩 **Explainability (XAI)** | Grad-CAM, Prototype Learning for AI Trust |
-| 🧬 **Self-Supervised Learning** | Masked Image Modeling, Contrastive Methods |
+| <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="22"/> **Medical Image Segmentation** | U-Net, Vision Transformer (ViT), DDPM |
+| <img src="https://media.giphy.com/media/3o7TKr1PpCwVb0bJ3i/giphy.gif" width="22"/> **Privacy-Preserving AI** | Federated Learning, Differential Privacy |
+| <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="22"/> **Multimodal AI** | Vision + Text for Clinical Diagnosis (LLM Integration) |
+| <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="22"/> **Explainability (XAI)** | Grad-CAM, Prototype Learning for AI Trust |
+| <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="22"/> **Self-Supervised Learning** | Masked Image Modeling, Contrastive Methods |
 
 ---
 
@@ -193,12 +193,12 @@
 
 <div align="center">
 
-> <img src="https://media.giphy.com/media/xT9KVH7uYfpN2tGf6k/giphy.gif" width="22"/> *“Building intelligent systems that serve humanity through innovation and responsibility.”*  
-> — **Sabrina Sultana**
+<img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="40"/><br>
+> *“Building intelligent systems that serve humanity through innovation and responsibility.”*  
+> — **Sabrina Sultana** <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="25"/>
 
 </div>
 
 <br>
 <div align="center">
-  <h3>💜 Thanks for visiting my space! 💫</h3>
-</div>
+<h3>
