@@ -26,24 +26,43 @@
 
 <br>
 
-<table width="100%">
+<!-- ✅ Updated Contact Section with Icons -->
+<div align="center">
+
+<table>
   <tr>
-    <td width="50%">
-      💬 Ask me about: <i>AI, Computer Vision, Mamba, OpenGL, and Medical Imaging</i>
+    <td align="center" width="300">
+      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="24"/>  
+      <b>Ask me about:</b><br>
+      <i>AI, Computer Vision, MAMBA, OpenGL, Medical Imaging</i>
     </td>
-    <td width="50%">
-      📫 **Email:** [sabrina.sultana1@g.bracu.ac.bd](mailto:sabrina.sultana1@g.bracu.ac.bd)
+    <td align="center" width="300">
+      <a href="mailto:sabrina.sultana1@g.bracu.ac.bd">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" width="24"/>  
+        <b>Email</b><br>
+        sabrina.sultana1@g.bracu.ac.bd
+      </a>
     </td>
   </tr>
   <tr>
-    <td>
-      🔗 **LinkedIn:** [linkedin.com/in/sabrina-sultana](https://www.linkedin.com/in/sabrina-sultana)
+    <td align="center" width="300">
+      <a href="https://linkedin.com/in/sabrina-sultana" target="_blank">
+        <img src="https://img.icons8.com/color/48/linkedin.png" width="24"/>  
+        <b>LinkedIn</b><br>
+        linkedin.com/in/sabrina-sultana
+      </a>
     </td>
-    <td>
-      💻 **GitHub:** [Sabrina-Sultana13](https://github.com/Sabrina-Sultana13)
+    <td align="center" width="300">
+      <a href="https://github.com/Sabrina-Sultana13" target="_blank">
+        <img src="https://img.icons8.com/glyph-neue/48/9B59B6/github.png" width="24"/>  
+        <b>GitHub</b><br>
+        github.com/Sabrina-Sultana13
+      </a>
     </td>
   </tr>
 </table>
+
+</div>
 
 </div>
 
