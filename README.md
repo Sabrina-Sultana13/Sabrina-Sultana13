@@ -83,17 +83,6 @@
 | 🧬 **Self-Supervised Learning** | Masked Image Modeling |
 
 ---
-## 🌈 Activity & Trophies
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrina-sultana13&theme=purple&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabrina-sultana13&theme=onestar&no-frame=true&margin-w=10" />
-</p>
-
----
 ## 🦋 Connect With Me
 
 <p align="center">
