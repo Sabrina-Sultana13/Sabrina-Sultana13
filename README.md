@@ -1,68 +1,125 @@
-<h1 align="center">✨ Assalamualaikum, I'm Sabrina Sultana✨</h1>
-<h3 align="center">Building Intelligent Systems | AI, Computer Vision & Deep Learning Enthusiast | Fast Learner & Problem Solver</h3>
+<!-- 🌸 Sabrina Sultana | README.md -->
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabrina-sultana13&label=Profile%20views&color=0e75b6&style=flat" alt="sabrina-sultana13" /> 
-</p>
-
----
-
-### 🌟 About Me
-
-- 🔭 I’m currently working on **Advanced Skin Disease Detection using U-Net & Transformers**, exploring **Self-Supervised** and **Few-Shot Learning** for medical image segmentation  
-- 🌱 I’m currently learning **Transformers for Medical Imaging, Privacy-Preserving AI, Multimodal Deep Learning, and Advanced Python & OpenGL**  
-- 👯 I’m looking to collaborate on **Medical Image Segmentation, AI Research, Privacy-Preserving & Federated Learning, and Multimodal Clinical Decision Support Systems**  
-- 💬 Ask me about **AI, Deep Learning, Medical Imaging, Transformers, Multimodal Learning, and Mamba-based Environments**  
-- 📫 Reach me at **sabrina.sultana1@g.bracu.ac.bd**  
-- 🌐 LinkedIn: [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)  
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/sabrina-sultana-" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/sabrina13" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🧠 Languages and Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabrina-sultana13&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=500&color=6F8FAF&center=true&vCenter=true&width=600&lines=✨+Assalamualaikum,+I'm+Sabrina+Sultana+✨;AI+%7C+Deep+Learning+%7C+Computer+Vision;Fast+Learner+%7C+Problem+Solver+%7C+Innovator" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina-sultana13&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrina-sultana13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=sabrina-sultana13&label=Profile%20views&color=6F8FAF&style=for-the-badge" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/sabrina-sultana13?label=Followers&style=for-the-badge&color=6F8FAF" alt="followers" /> 
+  <img src="https://img.shields.io/github/stars/sabrina-sultana13?label=Stars&style=for-the-badge&color=6F8FAF" alt="stars" /> 
 </p>
 
 ---
 
-⭐ **“Building intelligent systems that serve humanity through innovation and responsibility.”**  
+## 🌸 About Me
+
+🎓 **CS Student @ Brac University**  
+💡 Passionate about **AI, Deep Learning, and Medical Imaging**  
+🧠 Currently exploring **U-Net, Transformers, Self-Supervised & Few-Shot Learning**  
+🧩 Working on: **Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection**  
+🚀 Focused on **Multimodal Learning**, **Explainable AI**, and **Federated Learning**  
+💬 Ask me about: *AI, CV, LLMs, Mamba models, Transformers*  
+📫 Reach me at: **sabrina.sultana1@g.bracu.ac.bd**  
+🌐 LinkedIn: [linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-)  
+
+---
+
+## 🌈 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,git,linux,vscode,aws,django,flask,html,css,js,java,react,mysql" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+| Area | Exploring |
+|------|------------|
+| 🔬 Medical AI | U-Net, Vision Transformers |
+| 🔐 Privacy | Federated & Privacy-Preserving Learning |
+| 🧩 Multimodal AI | Combining Images, Text, & Clinical Data |
+| 🪄 Explainability | Grad-CAM, Prototype & Causal Explainability |
+| ⚙️ Engineering | OpenGL, Python Automation, Optimization |
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sabrina-sultana-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/sabrina13" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://github.com/Sabrina-Sultana13" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabrina-sultana13&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabrina-sultana13&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-sultana13&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projects & Research Highlights
+
+🩺 **Privacy-Preserving Hybrid Framework for Skin Disease Detection**  
+> U-Net + Transformer architecture integrating LLM-based decision support for clinical diagnosis.
+
+🧬 **Diffusion Models for Medical Image Reconstruction**  
+> Enhancing noisy MRI/CT images before segmentation.
+
+💡 **Multimodal Diagnosis with Explainable AI**  
+> Combining dermoscopic + textual data for explainable skin lesion classification.
+
+🎮 **Catch the Diamonds! (OpenGL Game)**  
+> A fun interactive game built in Python & OpenGL.
+
+🔒 **Federated Learning for Medical Imaging**  
+> Privacy-preserving training across distributed hospitals.
+
+---
+
+## 🧘 Fun Zone
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=6F8FAF&center=true&vCenter=true&width=600&lines=🧩+Problem+Solver;🚀+Deep+Learning+Enthusiast;🧠+Building+AI+That+Matters;🌸+Lifelong+Learner" alt="Typing Animation" />
+</p>
+
+---
+
+## ⏰ Coding Activity (Dynamic Graphs)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabrina-sultana13&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sabrina-sultana13&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 💫 Quote
+
+<p align="center">
+  <i>“Building intelligent systems that serve humanity through innovation and responsibility.”</i>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting! ✨</h3>
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-wave.gif" width="100" height="100" />
+</p>
