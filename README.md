@@ -1,17 +1,16 @@
 <div align="center">
 
-#  **Assalamualaikum, I'm Sabrina Sultana**
+# 💜 **Assalamualaikum, I'm Sabrina Sultana**
 ### Building Intelligent Systems with AI, Computer Vision & Deep Learning  
 #### `Fast Learner | Researcher | Problem Solver`
 
-<img src="https://komarev.com/ghpvc/?username=sabrina-sultana13&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/sabrina-sultana13?style=social" />
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=✨+AI+%7C+Deep+Learning+%7C+Medical+Imaging;🚀+Building+Privacy-Preserving+Intelligent+Systems;💡+U-Net+%7C+Transformers+%7C+Federated+Learning+%7C+XAI;🌸+Creating+Tech+that+Matters!" alt="Typing Animation" />
+<img src="https://marquee.svg.properties/api?title=AI%20%E2%80%A2%20Medical%20Imaging%20%E2%80%A2%20Federated%20Learning%20%E2%80%A2%20U-Net%20%E2%80%A2%20XAI%20%E2%80%A2%20Multimodal%20AI%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Privacy&color=9B59B6&background=5D3FD3&font=sans-serif&size=20&width=600&scroll_speed=0.08" alt="Scrolling marquee listing key skills and research areas" />
 
 </div>
 
+---
 ---
 
 ## 🪄 About Me
