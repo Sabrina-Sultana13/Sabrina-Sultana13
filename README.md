@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Assalamualaikum, I'm Sabrina Sultana**  
+# **Assalamualaikum, I'm Sabrina Sultana** <img src="https://media.giphy.com/media/3o6ZsXr6vfnE0f5VxK/giphy.gif" width="30"/>
 
 ### Building Intelligent Systems with AI, Computer Vision & Deep Learning  
 
@@ -19,26 +19,25 @@
 
 <div align="left">
 
-- 🎓 **Student @ Brac University (Dhaka, Bangladesh)** pursuing a **Bachelor’s degree in Computer Science.**  
-- 🔬 **Thesis Focus:** Developing a *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support.*  
-- 🧠 **Research Interests:** U-Net + Transformers, Multimodal AI, MAMBA, Federated Learning.  
-- 🔐 **Goal:** Building intelligent systems centered around **Privacy, Explainability (XAI), and real-world Medical AI.**
+- <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="22"/> **Student @ Brac University (Dhaka, Bangladesh)** pursuing a **Bachelor’s degree in Computer Science.**  
+- <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="22"/> **Thesis Focus:** Developing a *Privacy-Preserving Hybrid Deep Learning Framework for Skin Disease Detection & Clinical Decision Support.*  
+- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="22"/> **Research Interests:** U-Net + Transformers, Multimodal AI, MAMBA, Federated Learning.  
+- <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="22"/> **Goal:** Building intelligent systems centered around **Privacy, Explainability (XAI), and real-world Medical AI.**
 
 <br>
 
-<!-- ✅ Updated Contact Section with Icons -->
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="24"/>  
+      <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="24"/>  
       <b>Ask me about:</b><br>
       <i>AI, Computer Vision, MAMBA, OpenGL, Medical Imaging</i>
     </td>
     <td align="center" width="300">
       <a href="mailto:sabrina.sultana1@g.bracu.ac.bd">
-        <img src="https://img.icons8.com/color/48/gmail-new.png" width="24"/>  
+        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24"/>  
         <b>Email</b><br>
         sabrina.sultana1@g.bracu.ac.bd
       </a>
@@ -47,14 +46,14 @@
   <tr>
     <td align="center" width="300">
       <a href="https://linkedin.com/in/sabrina-sultana" target="_blank">
-        <img src="https://img.icons8.com/color/48/linkedin.png" width="24"/>  
+        <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="24"/>  
         <b>LinkedIn</b><br>
         linkedin.com/in/sabrina-sultana
       </a>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/Sabrina-Sultana13" target="_blank">
-        <img src="https://img.icons8.com/glyph-neue/48/9B59B6/github.png" width="24"/>  
+        <img src="https://media.giphy.com/media/l0HlPjezba0lDhz6A/giphy.gif" width="24"/>  
         <b>GitHub</b><br>
         github.com/Sabrina-Sultana13
       </a>
@@ -70,7 +69,7 @@
 
 ## 📚 Education
 
-### 🎓 **Brac University** *(Dhaka, Bangladesh)*  
+### <img src="https://media.giphy.com/media/3ohc0V1J1wP9Uj6q4k/giphy.gif" width="22"/> **Brac University** *(Dhaka, Bangladesh)*  
 - Bachelor of Science in Computer Science and Engineering  
 - *Expected Graduation: 2026*  
 
@@ -144,7 +143,7 @@
 
 <div align="center">
 
-| 🧪 Type | 🧠 Title & Description | 🔗 Link |
+| <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="22"/> Type | <img src="https://media.giphy.com/media/l0MYs3HhL6TQj6hX2/giphy.gif" width="22"/> Title & Description | 🔗 Link |
 | :--- | :--- | :---: |
 | **Medical AI** | 🩺 **Privacy-Preserving Skin Disease Detection (U-Net + Transformer)** — Combines segmentation, multimodal learning & federated privacy for healthcare AI. | *In Development* |
 | **Web Dev / AI** | 🧠 **Real-Time Emotion Detector** — Detects emotions from live video using CNN + Facial Landmarks. | [Try Demo](https://emotion-detector-six.vercel.app/) |
@@ -159,7 +158,7 @@
 
 ## 🔭 Research Focus Areas
 
-| 🧠 Area | 🔍 Current Work |
+| <img src="https://media.giphy.com/media/l0MYGzZfYicY6c1nC/giphy.gif" width="22"/> Area | 🔍 Current Work |
 | :---------- | :---------------- |
 | 🩺 **Medical Image Segmentation** | U-Net, Vision Transformer (ViT), DDPM |
 | 🔐 **Privacy-Preserving AI** | Federated Learning, Differential Privacy |
@@ -183,9 +182,9 @@
 ## 🦋 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sabrina-sultana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/sabrina13" target="_blank"><img src="https://img.shields.io/badge/Kaggle-9370DB?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:sabrina.sultana1@g.bracu.ac.bd" target="_blank"><img src="https://img.shields.io/badge/Email-9B59B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sabrina-sultana" target="_blank"><img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="22"/></a>
+  <a href="https://kaggle.com/sabrina13" target="_blank"><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="22"/></a>
+  <a href="mailto:sabrina.sultana1@g.bracu.ac.bd" target="_blank"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="22"/></a>
 </p>
 
 ---
@@ -194,7 +193,7 @@
 
 <div align="center">
 
-> *“Building intelligent systems that serve humanity through innovation and responsibility.”*  
+> <img src="https://media.giphy.com/media/xT9KVH7uYfpN2tGf6k/giphy.gif" width="22"/> *“Building intelligent systems that serve humanity through innovation and responsibility.”*  
 > — **Sabrina Sultana**
 
 </div>
