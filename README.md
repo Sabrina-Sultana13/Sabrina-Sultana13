@@ -181,7 +181,7 @@
 ## 🦋 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/sabrina-sultana-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[www.linkedin.com/in/sabrina-sultana-](https://www.linkedin.com/in/sabrina-sultana-/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/sabrina13" target="_blank"><img src="https://img.shields.io/badge/Kaggle-9370DB?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="mailto:sabrina.sultana1@g.bracu.ac.bd" target="_blank"><img src="https://img.shields.io/badge/Email-9B59B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
